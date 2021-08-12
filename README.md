@@ -1,2 +1,2 @@
 # go_connectdb
-training connect database MySQL by golang
+train golang connect database MySQL
